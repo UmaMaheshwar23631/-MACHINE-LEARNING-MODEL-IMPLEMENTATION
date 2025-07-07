@@ -56,3 +56,10 @@ I have made it with the help of resources from Google, Youtube & Chatgpt.
 
 ✅ Summary
 In short, this project was a practical exercise in applying machine learning and NLP to a real-world problem — detecting spam messages. It not only demonstrates technical skills in Python and scikit-learn but also addresses a highly relevant use case in communication safety. With further tuning and integration, this model could serve as a base for production-level spam detection systems.
+
+*OUTPUT* 
+
+![Image](https://github.com/user-attachments/assets/a05041bf-6b31-47fc-a8d3-c15807961621)
+![Image](https://github.com/user-attachments/assets/176d6ac5-84f8-4f5f-8aed-72701efc2227)
+![Image](https://github.com/user-attachments/assets/f635a548-81ae-4306-9c2c-368bb623585a)
+![Image](https://github.com/user-attachments/assets/eb84c0fb-b1cd-4020-b14b-8e37d8aa1023)
